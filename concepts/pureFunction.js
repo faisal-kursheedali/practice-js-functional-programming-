@@ -12,10 +12,5 @@ const PureFunction = (val) => {
       return 'Enter the value';
     }
   }
-  if (val === 'add') {
-  }
-  if (val === 'add') {
-    return add(3, 5);
-  }
 };
 export default PureFunction;
